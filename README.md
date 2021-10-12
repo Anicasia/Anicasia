@@ -6,7 +6,7 @@
 <h2> It's Kumsal Vardar. </h2>
 
 
-<img align="right" width=40% src="https://m.media-amazon.com/images/I/31rn+82XMyL._AC_SY780_.jpg">
+<img align="right" width=39% src="https://m.media-amazon.com/images/I/31rn+82XMyL._AC_SY780_.jpg">
 
 <p align="left"> <samp>Hi, I'm Kumsal. I am a Frontend Developer. I'm always eager to learn more and currently attending Frontend Development Bootcamp and getting more into the Azure Cloud to improve myself more. 💻
   
