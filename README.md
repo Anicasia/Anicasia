@@ -27,7 +27,7 @@
 <img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
 </td>
    
- <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
 <img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
 </td>
@@ -61,8 +61,6 @@
 <img height=65px src="https://img.icons8.com/color/48/000000/css3.png"> 
 </td>
 
-
-
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
@@ -75,7 +73,7 @@
 <img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
 </td>
 
-  <td align="center" width="20%">
+<td align="center" width="20%">
 <span><b><center>MongoDB</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/mongodb.png"> 
 </td>
@@ -83,8 +81,7 @@
 <td align="center" width="20%">
 <span><b><center>Typescript</center></b></span> 
 <img height=65px src="https://img.icons8.com/color/48/000000/typescript.png"> 
-  </td>
-
+</td>
 
 </tr>
 
