@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Kumsal Vardar
+        👋 Hi, I'm Kumsal
       </h1>
     </summary>
   </ul>
