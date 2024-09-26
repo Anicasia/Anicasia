@@ -1,130 +1,28 @@
+![👋 Hi, my name is Kumsal Vardar](./github-header-image.png)
 
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Kumsal Vardar
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-<h2 align="left"> Hello World! 👋 </h2> 
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.linkedin.com/in/kumsalvardar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
+ **<h3 align="left">🚀 Passionate frontend web developer, creating robust and scalable web applications. Skilled in front-end technologies, with a keen eye for user experience and performance optimization.</h3>**
 
-<h2> It's Kumsal Vardar. </h2>
+**<h3 align="left">Rapid Fire</h3>**
 
+- 💼 I'm currently working on: **💻 Developing a personal portfolio**
+- 🌱 I'm currently learning: **📚 Exploring Golang**
+- 💬 Ask me about: **💡 JavaScript, React, Node.js, TypeScript, and RESTful APIs**
+- ⚡ Fun fact: **🎢 I once debugged a issue while on a roller coaster!**
 
-<p align="left"> <samp> I am a Frontend Developer and also a certified Azure Developer. 💻  </p>
+ **<h3 align="left">Skills</h3>**
 
+<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" height="32" alt="Bootstrap" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=material-ui&logoColor=white" height="32" alt="Material-UI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Gatsby-663399?logo=gatsby&logoColor=white" height="32" alt="Gatsby" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" height="32" alt="Jest" style="margin-right: 4px"></p>
 
-
-<img  src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif">
-  
-## Tech Stack 🖥️
-
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>ReactJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>NodeJS</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
-</td>
-   
-<td align="center" width="20%">
-<span><b><center>JavaScript</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/javascript.png"> 
-</td>
-   <td align="center" width="20%">
-<span><b><center>Gatsby</center></b></span> 
-<img height=60px src="https://img.icons8.com/color/2x/gatsbyjs.png"> 
-</td>
-   
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Material-UI</center></b></span> 
-<img height=70px src="https://img.icons8.com/color/48/000000/material-ui.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=70px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Redux</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/redux.png"> 
-</td>
-  
-  <td align="center" width="20%">
-<span><b><center>Next.js</center></b></span> 
-<img height=60px src="https://pics.freeicons.io/uploads/icons/png/9114856761551941711-512.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Azure</center></b></span> 
-<img height=65px src="https://img.icons8.com/fluency/2x/azure-1.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>CSS</center></b></span>
-<img height=65px src="https://img.icons8.com/color/48/000000/css3.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
-</td>
-  
-  <td align="center" width="20%">
-<span><b><center>Bootstrap</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/2x/bootstrap.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Sass</center></b></span> 
-<img height=65px src="https://img.icons8.com/ios-filled/2x/sass.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/mongodb.png"> 
-</td>
-  
-<td align="center" width="20%">
-<span><b><center>Typescript</center></b></span> 
-<img height=65px src="https://img.icons8.com/color/48/000000/typescript.png"> 
-</td>
-  
-  <td align="center" width="20%">
-<span><b><center>jQuery</center></b></span> 
-<img height=65px src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png"> 
-</td>
-
-</tr>
-
-</tbody>
-</table>
-
-____
-
-
-
-<h3 > Other Accounts 📫 </h3>
-<br />
-<p >
-<a href="https://www.linkedin.com/in/kumsalvardar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</p>
-
-____
-
-
-<p align="center">
-
-⭐️ [Anicasia](https://github.com/Anicasia)
-
-</p>
